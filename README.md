@@ -1,11 +1,49 @@
-# Getting Started with Create React App
+# Picture e-commerce App
+## Introduction 
+This website was build to further improve my ReactJS skills, it implements most of the Hooks available in React. The purpose of the website is to mock an e-commerce site that 
+sells pictures. The website is build with create-react-app, for instruction how to install and run the app, follow the tips at the bottom.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Technologies used
+- React
+    - Hooks:
+        - useState
+        - useEffect
+        - useContext
+        - useRef
+    - react-router-dom
+    - create-react-app
 
-## Available Scripts
+## Challenges 
 
-In the project directory, you can run:
+## Project Status
 
+
+## Future Development 
+
+### Image attributions:
+https://picsum.photos/
+
+https://unsplash.com/
+
+### GitHub repo of images and JSON file
+https://github.com/bobziroll/scrimba-react-bootcamp-images
+
+### Icon library
+https://remixicon.com/
+
+### Libraries
+* React Router - https://reacttraining.com/react-router/web/guides/quick-start
+* PropTypes - https://reactjs.org/docs/typechecking-with-proptypes.html
+
+## Other Information 
+
+## How to run the app
+
+Download the app by running the following code
+
+```
+git clone xxxx
+```
 ### `npm start`
 
 Runs the app in the development mode.\
