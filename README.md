@@ -25,9 +25,6 @@ https://picsum.photos/
 
 https://unsplash.com/
 
-### GitHub repo of images and JSON file
-https://github.com/bobziroll/scrimba-react-bootcamp-images
-
 ### Icon library
 https://remixicon.com/
 
