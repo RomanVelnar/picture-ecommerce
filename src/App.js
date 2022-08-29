@@ -13,9 +13,6 @@ function App() {
         <Route path='/photos' element={<Photos />} />
         <Route path='/cart' element={<Cart />} />
       </Routes>
-
-
-      <h1>Home Page</h1>
     </div>
   );
 }
