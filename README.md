@@ -20,6 +20,9 @@ sells pictures. The website is build with create-react-app, for instruction how 
 
 ## Future Development 
 
+- add function that saves the favorited and items in cart to local storage
+
+
 ### Image attributions:
 https://picsum.photos/
 
