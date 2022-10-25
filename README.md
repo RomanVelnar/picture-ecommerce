@@ -16,7 +16,7 @@ sells pictures. The website is build with create-react-app, for instruction how 
 ## Challenges 
 
 ## Project Status
-
+The project is completed
 
 ## Future Development 
 
